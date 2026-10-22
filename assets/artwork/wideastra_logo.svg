@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="318 188 504 414" width="500" height="411">
+
+  <!-- White angular mark -->
+  <path
+    d="M318 211
+       L499 329
+       L454 329
+       L578 537
+       L544 602
+       Z"
+    fill="#fff"/>
+
+  <path
+    d="M673 318
+       L822 211
+       L634 560
+       L550 416
+       L579 364
+       L633 461
+       L706 329
+       L675 329
+       Z"
+    fill="#fff"/>
+
+  <!-- Upper red arc -->
+  <path
+    d="M447 188
+       C519 181 582 207 632 266
+       L611 280
+       C570 231 512 195 447 188
+       Z"
+    fill="#d10b20"/>
+
+  <!-- Red arrow -->
+  <path
+    d="M503 370
+       L679 248
+       L653 239
+       L733 216
+       L688 280
+       L687 256
+       L512 386
+       Z"
+    fill="#d10b20"/>
+
+  <!-- Red bow, smoothly tapered to a sharp tip -->
+  <path
+    d="M628 309
+       L648 295
+       C670 343 670 390 653 425
+       C647 438 640 451 632 461
+       C642 423 648 365 628 309
+       Z"
+    fill="#d10b20"/>
+</svg>
