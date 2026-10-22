@@ -1,7 +1,7 @@
  
 <p align="center">
   <picture>
-    <img alt="Wideastra" src="./assets/artwork/wideastra_logo.svg" width=55%>
+    <img alt="Wideastra" src="./assets/artwork/wideastra_logo.svg" width=55% height="240">
   </picture>
 </p>
 
@@ -14,7 +14,7 @@
 
 ## Demonstration
 
-[![Demo Video](https://img.youtube.com/vi/zJX6sWVGS3k/0.jpg)](https://youtu.be/zJX6sWVGS3k)
+[![Wideastra Demo Video](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FzJX6sWVGS3k)](https://youtu.be/zJX6sWVGS3k)
 
 ## Features
 
@@ -40,7 +40,7 @@ Wideastra supports a range of educational platforms through the following first-
 
 Wideastra will be available in the future with no release date as of now. Wideastra began as an internal project in 2020. The current internal release, v4.6, relies on custom binaries to interface with parts of the Widevine architecture, including device-specific components required for L1 TEE support. As a result, future open-source release will offer fewer features than the internal version.
 
-## Legal Notice
+## Legal Note
 
 Wideastra is intended for research, education, and other authorized use cases. It is **not** intended to promote or facilitate copyright infringement. Appropriate use cases may include:
 
