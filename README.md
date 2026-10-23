@@ -36,6 +36,12 @@ Wideastra supports a range of educational platforms through the following first-
 - PPStreams
 - Furmion
 
+## Plugin Demonstration
+
+Here is a demonstration video using Vdo<strike>de</strike>cipher plugin:
+
+[![Vdodecipher Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FIdYmC3_gL-M%3Fsi%3DroioNaZxI7THFHPx)](https://youtu.be/IdYmC3_gL-M?si=roioNaZxI7THFHPx)
+
 ## Open-Source Timeline
 
 Wideastra will be available in the future with no release date as of now. Wideastra began as an internal project in 2020. The current internal release, v4.6, relies on custom binaries to interface with parts of the Widevine architecture, including device-specific components required for L1 TEE support. As a result, future open-source release will offer fewer features than the internal version.
